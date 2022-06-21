@@ -51,13 +51,15 @@ image:https://upload.wikimedia.org/wikipedia/commons/a/a2/BFH_Logo_deutsch.png[B
 [cols=">,1"] 
 |===
 
-| Kurzbeschreibung (öffentlich, für IS-A) 
+| Kurzbeschreibung +
+(öffentlich, für IS-A) 
 | 
 
 | Detaillierte Beschreibung 
 | 
 
-| Modulinhalte und Zusammenarbeit (Modulaufbau, Fachinhalte, Methoden, Praxisfälle, Forschungsbezug)
+| Modulinhalte und Zusammenarbeit +
+(Modulaufbau, Fachinhalte, Methoden, Praxisfälle, Forschungsbezug)
 | 
 
 | Lehr- und Lernformen
@@ -69,13 +71,16 @@ image:https://upload.wikimedia.org/wikipedia/commons/a/a2/BFH_Logo_deutsch.png[B
 | Literatur
 | 
 
-| Eingangskompetenzen (Fachkompetenzen und Kompetenzen gemäss Kompetenzmodell BFH-W)
+| Eingangskompetenzen +
+(Fachkompetenzen und Kompetenzen gemäss Kompetenzmodell BFH-W)
 | 
 
-| Vermittelte Kompetenzen (Fachkompetenzen und Kompetenzen gemäss Kompetenzmodell BFH-W)
+| Vermittelte Kompetenzen +
+(Fachkompetenzen und Kompetenzen gemäss Kompetenzmodell BFH-W)
 | 
 
-| Schnittstellen zu anderen Modulen (zuführende, parallele, weiterführende)
+| Schnittstellen zu anderen Modulen +
+(zuführende, parallele, weiterführende)
 | 
 
 | Kompetenznachweis*
